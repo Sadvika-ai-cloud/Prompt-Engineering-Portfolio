@@ -1,7 +1,7 @@
 
 # Prompt Engineering Portfolio 
 
-Welcome to my Prompt Engineering Portfolio!
+Welcome to my Prompt Engineering Portfolio! 
 
 As a final-year Artificial Intelligence and Machine Learning student, I am exploring the growing field of Generative AI and Prompt Engineering.
 
